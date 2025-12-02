@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width=25% height=25%>
+<br>
+
 <h1 align="center">Wiz ⛳</h1>
 <h3 align="center">Gameplay Programmer | Unreal Engine 5 & Unity </h3>
 
@@ -47,9 +50,5 @@ Passionate about developing video games to create immersive and enriching experi
 <p>
 <img src="https://wakapi.wizurth.ovh/api/badge/Wizurth/Wizurth/interval:30d?label=Last+30+days" alt="Wakapi_Today" height="25"/>
 </p>
-
-<a href="https://wakapi.wizurth.ovh">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wizurth&api_domain=wakapi.wizurth.ovh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+6+Months%29&layout=compact" alt="Wakapi Stats" />
-</a>
 
 </div>
