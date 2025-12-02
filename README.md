@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width=25% height=25%>
-<br>
-
 <h1 align="center">Wiz ⛳</h1>
 <h3 align="center">Gameplay Programmer | Unreal Engine 5 & Unity </h3>
-
 <p align="center">
 Passionate about developing video games to create immersive and enriching experiences
 </p>
+<img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width=25% height=25%>
 
 <h3>🛠️ Game Engines</h3>
 
