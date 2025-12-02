@@ -15,7 +15,7 @@ Passionate about developing video games to create immersive and enriching experi
 <img src="https://img.shields.io/badge/Unity-%231A202C?style=for-the-badge&logo=unity&logoColor=%232F855A" alt="Unity" />
 
 <!-- Languages -->
-<h3>📌 Languages</h3>
+<h3>📌 Main Stack</h3>
 
 <img src="https://img.shields.io/badge/C++-%231A202C?style=for-the-badge&logo=cplusplus&logoColor=%232F855A" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-%231A202C?style=for-the-badge&logo=c&logoColor=%232F855A" alt="C#" />
@@ -33,15 +33,23 @@ Passionate about developing video games to create immersive and enriching experi
 <img src="https://img.shields.io/badge/Fork-%231A202C?style=for-the-badge&logo=Greasy+Fork&logoColor=%232F855A" alt="Fork" />
 <img src="https://img.shields.io/badge/Git-%231A202C?style=for-the-badge&logo=Git&logoColor=%232F855A" alt="Git" />
 
+<h3>🔭 Environments</h3>
+
+<!-- Environments -->
+<img src="https://img.shields.io/badge/Windows-%231A202C?style=for-the-badge&logo=Git+For+Windows&logoColor=%232F855A" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-%231A202C?style=for-the-badge&logo=Linux&logoColor=%232F855A" alt="Linux" />
+<img src="https://img.shields.io/badge/Proxmox-%231A202C?style=for-the-badge&logo=Proxmox&logoColor=%232F855A" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Portainer-%231A202C?style=for-the-badge&logo=Portainer&logoColor=%232F855A" alt="Portainer" />
+<img src="https://img.shields.io/badge/Docker-%231A202C?style=for-the-badge&logo=Docker&logoColor=%232F855A" alt="Docker" />
+
 <h3>📊 Stats</h3>
 
 <p>
-<img src="https://wakapi.wizurth.ovh/api/badge/Wizurth/Wizurth/interval:30_days?label=Last 30 days" alt="Wakapi_Today" height="25"/>
-<img src="https://wakapi.wizurth.ovh/api/badge/Wizurth/Wizurth/interval:all_time?label=All time" alt="Wakapi_AllTime" height="25"/>
+<img src="https://wakapi.wizurth.ovh/api/badge/Wizurth/Wizurth/interval:30d?label=Last+30+days" alt="Wakapi_Today" height="25"/>
 </p>
 
 <a href="https://wakapi.wizurth.ovh">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wizurth&api_domain=wakapi.wizurth.ovh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+24+Hours%29&layout=compact" alt="Wakapi Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wizurth&api_domain=wakapi.wizurth.ovh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+6+Months%29&layout=compact" alt="Wakapi Stats" />
 </a>
 
 </div>
