@@ -5,7 +5,6 @@
 <p align="center">
 Passionate about developing video games to create immersive and enriching experiences
 </p>
-<img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width=25% height=25%>
 
 <h3>🛠️ Game Engines</h3>
 
@@ -48,4 +47,5 @@ Passionate about developing video games to create immersive and enriching experi
 <img src="https://wakapi.wizurth.ovh/api/badge/Wizurth/Wizurth/interval:30d?label=Last+30+days" alt="Wakapi_Today" height="25"/>
 </p>
 
+<img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width=25% height=25%>
 </div>
