@@ -8,7 +8,7 @@ Passionate about developing video games to create immersive and enriching experi
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="https://www.wizurth.ovh" target="_blank">
-    <img src="https://cloud.wizurth.ovh/s/qxQMarr9FQEYXyx/preview" alt="Wiz Icon" height="28" style="vertical-align:middle; margin-right: 5px;"/>
+    <img src="https://storage.wizurth.ovh/Pictures/Wiz%20Productions/WizProductions_Icon_128x128.png" alt="Wiz Icon" height="28" style="vertical-align:middle; margin-right: 5px;"/>
     <img src="https://img.shields.io/badge/Portfolio-Wizurth.ovh-%231A202C?style=for-the-badge&logoColor=%232F855A" alt="Portfolio Badge" style="vertical-align:middle;"/>
   </a>
 </p>
@@ -52,6 +52,6 @@ Passionate about developing video games to create immersive and enriching experi
 </p>
 
 <br/>
-<a href="#_"><img src="https://cloud.wizurth.ovh/s/bJwpowAbE6JxNFn/preview" width="20%"></a>
+<a href="#_"><img src="https://storage.wizurth.ovh/Pictures/Wiz/Wiz_Icon.png" width="20%"></a>
 
 </div>
